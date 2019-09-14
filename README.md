@@ -8,3 +8,7 @@ It is generalized code for josephus for n people excluding people in k without u
 #About Josephus_With_recursion
 
 It is generalized code for josephus for n people excluding people in k by using recursion.
+
+#About toh_iterative
+
+It is an generalized code for tower of hanoi for any number of disks taken by user without using recursion.
