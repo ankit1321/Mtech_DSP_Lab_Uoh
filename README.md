@@ -12,3 +12,7 @@ It is generalized code for josephus for n people excluding people in k by using 
 #About toh_iterative
 
 It is an generalized code for tower of hanoi for any number of disks taken by user without using recursion.
+
+#binary search tree(BST)
+
+All operations on bst is done with recursive as well as non-recursive traversal and tree like display is also done.
