@@ -13,6 +13,11 @@ It is generalized code for josephus for n people excluding people in k by using 
 
 It is an generalized code for tower of hanoi for any number of disks taken by user without using recursion.
 
-#binary search tree(BST)
+#Binary search tree(BST)
 
 All operations on bst is done with recursive as well as non-recursive traversal and tree like display is also done.
+
+#Floyd Graph Traversal(Shortest Distance)
+
+Shortest path in graph for each nade as a source to each node as a destination is shown through Floyd_warshal Algorithm.
+
