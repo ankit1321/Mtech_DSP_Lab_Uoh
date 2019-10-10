@@ -21,3 +21,7 @@ All operations on bst is done with recursive as well as non-recursive traversal 
 
 Shortest path in graph for each nade as a source to each node as a destination is shown through Floyd_warshal Algorithm.
 
+#Doubly link list(DLL)
+
+This is a flexible link list code with various operations with their generalizations.Various conditions are included for each function such as insert and delete at every position,reversing the link list.
+
