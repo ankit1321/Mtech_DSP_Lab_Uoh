@@ -25,3 +25,7 @@ Shortest path in graph for each nade as a source to each node as a destination i
 
 This is a flexible link list code with various operations with their generalizations.Various conditions are included for each function such as insert and delete at every position,reversing the link list.
 
+#Permutation 
+
+This code prints each and every possible permutation for n and r.  
+
