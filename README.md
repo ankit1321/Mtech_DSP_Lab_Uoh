@@ -27,5 +27,9 @@ This is a flexible link list code with various operations with their generalizat
 
 #Permutation 
 
-This code prints each and every possible permutation for n and r.  
+This code prints each and every possible permutation for n and r.
+
+#Sets
+
+This code firstly take two sets and make sets in ordered list and then find union and intersetion of sets.  
 
